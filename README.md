@@ -1,0 +1,3 @@
+First of all, this code purposed is to delete any text files in directory from input and then checking which text files is below than date that user input too.
+But in this code, what i improved is on the looping instead using "for" i choose to use "foreach" becasuse is more clean that use "for".
+And then i improve the information back to user if files already deleted or there is no files that match the criteria that user input.
